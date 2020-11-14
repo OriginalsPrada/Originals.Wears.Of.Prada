@@ -1,0 +1,83 @@
+#menu{
+    padding: 0;
+    
+}
+
+#menu a {
+  
+    font-family:inherit;
+    font-size: 18px;
+    text-decoration: none;
+    float: center;
+    padding: 10px;
+    background: #1A68F2;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+#menu a:hover{
+    background-color: #65D7F9;
+    
+}
+ul{
+    text-align: center;
+    
+}
+}
+#ofertas a:hover{
+    background-color: beige;
+}
+#blog h1, h4{
+    text-align: center;
+    color: black;
+}
+
+#blog h1{
+    font-size: 28px;
+    color:  black;
+}
+
+#blog .contenedor{
+    align-content: space-between;
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+}
+
+#blog article{
+    background: #6CD7F7;
+    color: black;
+    padding: 8px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.blog_txt{
+    width: 100%;
+    max-width: 280px;
+    text-align: center;
+    color: black;
+}
+
+#blog a{
+    float: center;
+    display: block;
+    width: 200px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 10px;
+    border: 3px solid #fff;
+    border-radius: 10px;
+}
+
+#blog a:hover{
+    background: rgba(255,255,255,0.3)
+}
+
+
+
+
